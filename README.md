@@ -1,10 +1,6 @@
 # Robo-Employee-Table
  -To install, clone repo from github and run live server using live server extension via visual studio code. DataTables,Bootstrap, and Jquery are installed via CDN. 
-# Links
- - https://datatables.net/
- - https://getbootstrap.com/
- - https://code.jquery.com/
- - Created mock_data for DataTables use named robo_data.
+  - Created mock_data for DataTables use named robo_data.
  - Created three separate pages
  - First page has the ten things I want in life
  - The second page is my datatable
@@ -14,3 +10,8 @@
  - Datatable has 100 entries on 10 pages with 10 entries per page. 
  - When Clicking on an entry it will link to final page with selected entries information
  - Console logs were left in the code
+
+# Links
+ - https://datatables.net/
+ - https://getbootstrap.com/
+ - https://code.jquery.com/
