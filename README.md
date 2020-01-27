@@ -1,5 +1,5 @@
 # Robo-Employee-Table
- -To install, clone repo from github and run live server using live server extension via visual studio code. DataTables,Bootstrap, and Jquery are installed via CDN. 
+ To install, clone repo from github and run live server using live server extension via visual studio code. DataTables,Bootstrap, and Jquery are installed via CDN. 
   - Created mock_data for DataTables use named robo_data.
  - Created three separate pages
  - First page has the ten things I want in life
